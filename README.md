@@ -1,8 +1,7 @@
 ## Guilherme Hyde
 
-"Atualmente cursando Análise e Desenvolvimento de Sistemas, sou um entusiasta da tecnologia com foco na área da computação.
+"Estudante de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia. Minha jornada na computação começou aos 17 anos, desenvolvendo modificações para jogos em Java. Foi ali que descobri meu interesse pela área: a capacidade de implementar funcionalidades customizadas e traduzir necessidades em código funcional.
 
- Meu primeiro contato com o desenvolvimento foi aos 17 anos, criando modificações para jogos em Java. Foi nesse momento que decidi seguir este caminho: pela liberdade de implementar ideias inovadoras e transformar conceitos abstratos em funcionalidades reais.
-Minha paixão por tecnologia vem da capacidade de dar forma a projetos complexos. Encaro o desenvolvimento como um processo de arquitetura e estratégia, onde dedico tempo projetando e teorizando soluções. Sinto uma grande gratificação ao resolver problemas lógicos e ver um sistema rodar com sucesso após ciclos de testes e refinamento.
+Para mim, programar é um processo de arquitetura. Gosto de dedicar tempo projetando e refinando a lógica até encontrar a solução mais eficiente para um problema. A gratificação vem de ver um sistema rodando com estabilidade após um ciclo rigoroso de testes e ajustes.
 
-Busco minha primeira oportunidade profissional para estar ao redor de pessoas que compartilham esse entusiasmo. Embora não tenha experiência prévia no mercado, possuo sede de aprendizado em novas ferramentas, metodologias ágeis e lógica avançada. Meu objetivo é evoluir tecnicamente e contribuir para o crescimento da equipe dentro do ecossistema de tecnologia."
+Sempre em busca de evolução técnica, tenho foco em aprender novas ferramentas e metodologias de mercado. Acredito na troca de experiências e no valor de estar em ambientes que desafiem meu conhecimento. Meu objetivo é aplicar lógica e inovação para resolver problemas reais através da tecnologia."
